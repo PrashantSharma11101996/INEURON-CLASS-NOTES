@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/dvc-mlflow/mlruns/0/ff7486f2242947a596f250b2508c4911/artifacts
+end_time: 1700369241823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff7486f2242947a596f250b2508c4911
+run_name: omniscient-slug-226
+run_uuid: ff7486f2242947a596f250b2508c4911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369241746
+status: 3
+tags: []
+user_id: sunny

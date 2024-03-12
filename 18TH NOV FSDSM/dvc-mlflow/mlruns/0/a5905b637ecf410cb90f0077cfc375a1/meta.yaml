@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/dvc-mlflow/mlruns/0/a5905b637ecf410cb90f0077cfc375a1/artifacts
+end_time: 1700369227728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5905b637ecf410cb90f0077cfc375a1
+run_name: tasteful-bird-927
+run_uuid: a5905b637ecf410cb90f0077cfc375a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369227618
+status: 3
+tags: []
+user_id: sunny

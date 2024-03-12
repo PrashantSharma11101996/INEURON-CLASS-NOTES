@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/dvc-mlflow/mlruns/0/fdda79cf314c47c09f37a318d744518a/artifacts
+end_time: 1700368765603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdda79cf314c47c09f37a318d744518a
+run_name: persistent-squid-269
+run_uuid: fdda79cf314c47c09f37a318d744518a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700368765509
+status: 3
+tags: []
+user_id: sunny
